@@ -7,3 +7,5 @@ We are completing our first *GPS 1.1* and working on markdown. Key things we nee
 ```
 
 We can view our markdown changes live [here](http://markdownlivepreview.com/)
+
+different small conflict in master
